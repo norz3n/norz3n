@@ -33,6 +33,16 @@
   </a>
 </div>
 
+## <div align="center">📊 GitHub Stats</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=norz3n&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&include_all_commits=1" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=norz3n&theme=dark" alt="GitHub Streak" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=norz3n&layout=compact&theme=dark" alt="Top Languages" />
+</div>
+
 ## <div align="center">📫 Contact Me</div>
 
 <div align="center">
