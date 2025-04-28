@@ -24,25 +24,12 @@
   <a href="#"><img src="https://img.shields.io/badge/RenPy-FF7F7F?style=for-the-badge&logo=renpy&logoColor=white" /></a>
 </div>
 
-## <div align="center">📊 GitHub статистика</div>
+## <div align="center">🏢 Organization</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=norz3n&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&include_all_commits=1" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=norz3n&theme=dark" alt="GitHub Streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=norz3n&layout=compact&theme=dark" alt="Top Languages" />
-</div>
-
-## <div align="center">🔭 Текущие проекты</div>
-
-<div align="center">
-  <!-- Здесь можно добавить карточки твоих репозиториев -->
-  <a href="https://github.com/norz3n/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=norz3n&repo=project1&theme=dark" alt="Project 1" />
-  </a>
-  <a href="https://github.com/norz3n/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=norz3n&repo=project2&theme=dark" alt="Project 2" />
+  <p>I contribute to projects at:</p>
+  <a href="https://github.com/ElysiumTeamDevelopment" target="_blank">
+    <img src="https://img.shields.io/badge/ElysiumTeamDevelopment-181717?style=for-the-badge&logo=github&logoColor=white" alt="ElysiumTeamDevelopment" />
   </a>
 </div>
 
